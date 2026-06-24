@@ -4,7 +4,7 @@
   "description": "E-Book Store Backend API",
   "main": "dist/app.js",
   "scripts": {
-    "build": "tsc",
+    "build": "npx tsc",
     "start": "node dist/app.js",
     "dev": "nodemon --exec tsx src/app.ts"
   },
