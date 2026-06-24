@@ -1,4 +1,3 @@
-"use strict";
 require("dotenv").config(); // .env file eke thiyena variables load karaganna
 const express = require("express");
 const cors = require("cors");

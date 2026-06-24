@@ -1,4 +1,3 @@
-"use strict";
 const express = require("express");
 const router = express.Router();
 const { addOrderItems, getMyOrders } = require("../controllers/orderController");

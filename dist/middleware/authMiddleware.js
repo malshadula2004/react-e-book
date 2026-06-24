@@ -1,4 +1,3 @@
-"use strict";
 const jwt = require("jsonwebtoken");
 const User = require("../models/User");
 // Check if user is logged in (Valid JWT Token)

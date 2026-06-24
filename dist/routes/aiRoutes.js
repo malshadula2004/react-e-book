@@ -1,4 +1,3 @@
-"use strict";
 // routes/aiRoutes.js (හෝ aiRoutes.ts ඔයා CommonJS පාවිච්චි කරනවා නම්)
 const { Router } = require('express');
 const { GoogleGenAI } = require('@google/genai');

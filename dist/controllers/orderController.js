@@ -1,4 +1,3 @@
-"use strict";
 const Order = require("../models/Order");
 // @desc    Create new order with Card Payment Simulation
 // @route   POST /api/orders

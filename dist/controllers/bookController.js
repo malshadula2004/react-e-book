@@ -1,4 +1,3 @@
-"use strict";
 const Book = require("../models/Book");
 // @desc    Get all books
 // @route   GET /api/books

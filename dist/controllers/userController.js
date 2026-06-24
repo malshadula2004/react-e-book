@@ -1,4 +1,3 @@
-"use strict";
 const User = require("../model/user");
 // Create user
 const createUser = async (req, res) => {
